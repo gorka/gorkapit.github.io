@@ -6,6 +6,10 @@ footer {
   margin: 3rem 0 2rem;
 }
 
+img {
+  max-width: 100%;
+}
+
 .container {
   margin: auto;
   max-width: 900px;
