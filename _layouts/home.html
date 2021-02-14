@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<div>
-  {{ content }}
+<h1>{{ site.title | escape }}</h1>
+
+{{ content }}
 
   {%- if site.posts.size > 0 -%}
     <ul>
@@ -22,4 +23,3 @@ layout: default
 
   {%- endif -%}
 
-</div>
