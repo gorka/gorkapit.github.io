@@ -1,11 +1,11 @@
 ---
-title:  "Hot pockets"
-categories: comida 
+title: "Hot pockets"
+categories: comida
 ---
 
-[![](/assets/img/hot-pockets-1-small.jpeg)](/assets/img/hot-pockets-1.jpeg)
-
 Los _hot pockets_ son una de esas cosas que he visto mil veces en las películas y nunca había probado. Después de varios meses viéndolos en el supermercado me he decidido a comprar un par de cajas de diferentes sabores y quitarme esa espinita.
+
+[![](/assets/img/hot-pockets-1-small.jpeg)](/assets/img/hot-pockets-1.jpeg)
 
 La preparación es súper sencilla. Sacas uno de los dos paquetes que vienen en la caja e introduces el _hot pocket_ dentro de la fundita de cartón. Dos minutos al microondas, dos minutos para que deje de quemar y listo para comer.
 
@@ -18,4 +18,3 @@ Los de jamón, queso y huevo me han recordado en su sabor y consistencia a las f
 [![](/assets/img/hot-pockets-2-small.jpeg)](/assets/img/hot-pockets-2.jpeg)
 [![](/assets/img/hot-pockets-3-small.jpeg)](/assets/img/hot-pockets-3.jpeg)
 [![](/assets/img/hot-pockets-4-small.jpeg)](/assets/img/hot-pockets-4.jpeg)
-

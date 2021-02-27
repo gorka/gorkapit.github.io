@@ -1,0 +1,11 @@
+<nav class="nav  nav--paginator">
+
+  {% if page.previous.url %}
+    <a href="{{ site.baseurl }}{{ page.previous.url}}" class="pagination  pagination--previous">&larr; {{ page.previous.title }}</a>
+  {% endif %}
+
+  {% if page.next.url %}
+    <a href="{{ site.baseurl }}{{ page.next.url }}" class="pagination  pagination--next">{{ page.next.title }} &rarr;</a>
+  {% endif %}
+
+</nav>

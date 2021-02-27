@@ -33,6 +33,9 @@ GEM
     faraday-net_http (1.0.1)
     ffi (1.14.2)
     forwardable-extended (2.6.0)
+    garth-jekyll-theme (1.0.5)
+      jekyll (>= 3.6, < 5.0)
+      jekyll-paginate (~> 1.1)
     gemoji (3.0.1)
     github-pages (211)
       github-pages-health-check (= 1.16.1)
@@ -259,10 +262,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  garth-jekyll-theme
   github-pages (~> 211)
   jekyll (~> 3.9)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
